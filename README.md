@@ -12,7 +12,7 @@
 - 🤝 [профиль](https://www.linkedin.com/in/natalya-malakhova-78a523275) на LinkedIn
 - ✍ [автор](https://habr.com/ru/users/Malakhova-Natalya/) на Хабр
 
---------------------------------------------
+##
 
 ![DWH](https://img.shields.io/badge/DWH-2C3E50?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-2C3E50?style=flat-square)
@@ -21,7 +21,7 @@
 ![Моделирование данных](https://img.shields.io/badge/Моделирование_данных-2C3E50?style=flat-square)
 ![Ведение_проектной_документации](https://img.shields.io/badge/Ведение_проектной_документации-2C3E50?style=flat-square)
 
---------------------------------------------
+##
 
 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-2C3E50?style=flat-square&logo=clickhouse&logoColor=white)
