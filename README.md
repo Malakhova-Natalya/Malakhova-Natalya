@@ -21,9 +21,9 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-2C3E50?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-2C3E50?style=flat-square&logo=airbyte&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python&logoColor=white)
-![Superset](https://img.shields.io/badge/Superset-2C3E50?style=flat-square&logo=apachesuperset&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-2C3E50?style=flat-square&logo=gitlab&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-2C3E50?style=flat-square&logo=apachesuperset&logo)
+![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=flat-square&logo=github&logo)
+![GitLab](https://img.shields.io/badge/GitLab-2C3E50?style=flat-square&logo=gitlab&logo)
 ![Jira](https://img.shields.io/badge/Jira-2C3E50?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-2C3E50?style=flat-square&logo=confluence&logoColor=white)
 
