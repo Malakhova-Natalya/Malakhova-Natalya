@@ -12,28 +12,27 @@
 - 🤝 [профиль](https://www.linkedin.com/in/natalya-malakhova-78a523275) на LinkedIn
 - ✍ [автор](https://habr.com/ru/users/Malakhova-Natalya/) на Хабр
 
+--------------------------------------------
 
-
-### Продвинутый уровень
 ![DWH](https://img.shields.io/badge/DWH-2C3E50?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-2C3E50?style=flat-square&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-2C3E50?style=flat-square&logo=clickhouse&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2C3E50?style=flat-square)
 ![Аналитика](https://img.shields.io/badge/Аналитика-2C3E50?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-2C3E50?style=flat-square)
-![Сбор и анализ информации](https://img.shields.io/badge/Сбор_и_анализ_информации-2C3E50?style=flat-square)
-![Сбор требований](https://img.shields.io/badge/Сбор_требований-2C3E50?style=flat-square)
-![Анализ требований](https://img.shields.io/badge/Анализ_требований-2C3E50?style=flat-square)
-![Разработка ТЗ](https://img.shields.io/badge/Разработка_ТЗ-2C3E50?style=flat-square)
+![Сбор и анализ требований](https://img.shields.io/badge/Сбор_и_анализ_требований-2C3E50?style=flat-square)
 ![Моделирование данных](https://img.shields.io/badge/Моделирование_данных-2C3E50?style=flat-square)
-![Проектная документация](https://img.shields.io/badge/Ведение_проектной_документации-2C3E50?style=flat-square)
+![Ведение_проектной_документации](https://img.shields.io/badge/Ведение_проектной_документации-2C3E50?style=flat-square)
 
-### Средний уровень
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C3E50?style=flat-square&logo=postgresql&logoColor=white)
+--------------------------------------------
+
+
+![ClickHouse](https://img.shields.io/badge/ClickHouse-2C3E50?style=flat-square&logo=clickhouse&logoColor=white)
 ![Greenplum](https://img.shields.io/badge/Greenplum-2C3E50?style=flat-square)
-![Big Data](https://img.shields.io/badge/Big_Data-2C3E50?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C3E50?style=flat-square&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-2C3E50?style=flat-square&logo=dbt&logoColor=white)
 ![Jira](https://img.shields.io/badge/Atlassian_Jira-2C3E50?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Atlassian_Confluence-2C3E50?style=flat-square&logo=confluence&logoColor=white)
+
+-------------------------------------------------
+
 
 ### Базовый уровень
 ![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python&logoColor=white)
