@@ -25,7 +25,7 @@
 
 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-2C3E50?style=flat-square&logo=clickhouse&logoColor=white)
-![Greenplum](https://img.shields.io/badge/Greenplum-2C3E50?style=flat-square)
+![Greenplum](https://img.shields.io/badge/GreenPlum-2C3E50?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C3E50?style=flat-square&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-2C3E50?style=flat-square&logo=dbt&logoColor=white)
 ![Jira](https://img.shields.io/badge/Atlassian_Jira-2C3E50?style=flat-square&logo=jira&logoColor=white)
