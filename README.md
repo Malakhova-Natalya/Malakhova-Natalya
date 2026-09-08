@@ -30,16 +30,6 @@
 ![dbt](https://img.shields.io/badge/dbt-2C3E50?style=flat-square&logo=dbt&logoColor=white)
 ![Jira](https://img.shields.io/badge/Atlassian_Jira-2C3E50?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Atlassian_Confluence-2C3E50?style=flat-square&logo=confluence&logoColor=white)
-
--------------------------------------------------
-
-
-### Базовый уровень
-![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-2C3E50?style=flat-square)
-![ELT](https://img.shields.io/badge/ELT-2C3E50?style=flat-square)
-![Airbyte](https://img.shields.io/badge/Airbyte-2C3E50?style=flat-square&logo=airbyte&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-2C3E50?style=flat-square&logo=apacheairflow&logoColor=white)
-![Superset](https://img.shields.io/badge/Superset-2C3E50?style=flat-square&logo=apachesuperset&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-2C3E50?style=flat-square&logo=gitlab&logoColor=white)
+
+
