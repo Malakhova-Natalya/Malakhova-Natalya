@@ -20,9 +20,7 @@
 ![Сбор и анализ требований](https://img.shields.io/badge/Сбор_и_анализ_требований-2C3E50?style=flat-square)
 ![Моделирование данных](https://img.shields.io/badge/Моделирование_данных-2C3E50?style=flat-square)
 ![Ведение_проектной_документации](https://img.shields.io/badge/Ведение_проектной_документации-2C3E50?style=flat-square)
-
 ##
-
 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-2C3E50?style=flat-square&logo=clickhouse&logoColor=white)
 ![Greenplum](https://img.shields.io/badge/GreenPlum-2C3E50?style=flat-square)
@@ -31,5 +29,3 @@
 ![Jira](https://img.shields.io/badge/Atlassian_Jira-2C3E50?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Atlassian_Confluence-2C3E50?style=flat-square&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=flat-square&logo=github&logoColor=white)
-
-
