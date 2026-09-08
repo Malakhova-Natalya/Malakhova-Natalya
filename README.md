@@ -12,3 +12,4 @@
 - 🤝 [профиль](https://www.linkedin.com/in/natalya-malakhova-78a523275) на LinkedIn
 - ✍ [автор](https://habr.com/ru/users/Malakhova-Natalya/) на Хабр
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
