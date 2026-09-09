@@ -9,6 +9,7 @@
 - 🎻 по первой профессии - академический музыкант, педагог, лауреат всероссийских конкурсов
 - 💬 веду свой телеграм-канал [Дневник аналитика](https://t.me/diary_musician_analyst)
 - ⚡ [резюме](https://hh.ru/resume/55971ba5ff0bfc5ea60039ed1f4246746d5338) на headhunter
+- ⚡ [профиль](https://hirify.me/malakhova-natalya) на hirify
 - 🤝 [профиль](https://www.linkedin.com/in/natalya-malakhova-78a523275) на LinkedIn
 - ✍ [автор](https://habr.com/ru/users/Malakhova-Natalya/) на Хабр
 
